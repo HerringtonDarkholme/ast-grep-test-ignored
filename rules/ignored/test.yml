@@ -1,0 +1,5 @@
+id: this-is-ignored
+language: ts
+severity: error
+rule:
+  pattern: console.log($A)

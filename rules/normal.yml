@@ -1,0 +1,4 @@
+id: this-is-normal
+language: ts
+rule:
+  pattern: console.log($A)
