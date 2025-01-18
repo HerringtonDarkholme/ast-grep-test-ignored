@@ -1,2 +1,3 @@
 ruleDirs:
 - rules
+- rules/ignored # try uncommenting this line
